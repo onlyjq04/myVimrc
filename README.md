@@ -1,5 +1,7 @@
 # The Ultimate vimrc
 
+A fork from original https://github.com/amix/vimrc
+
 Over the last 8 years I have used and tweaked Vim. This is my Ultimate vimrc.
 
 There are two versions:
